@@ -2,7 +2,7 @@
 
 ###About###
 
-This is a simple greeting app built with Node, Express, and ReactJS.
+This is a simple greeting app built with Node, Express, and ReactJS. Yes, it is incredibly useless and basic, but hey, it helped me learn some things and we all have to start somewhere. 
 
 ###Getting Started###
 
