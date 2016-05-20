@@ -1,0 +1,22 @@
+{
+  "name": "howdy-react",
+  "version": "1.0.0",
+  "description": "Simple greeting app built with Node, Express and ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tworkman512/HowdyReact.git"
+  },
+  "author": "Thomas Workman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tworkman512/HowdyReact/issues"
+  },
+  "homepage": "https://github.com/tworkman512/HowdyReact#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
